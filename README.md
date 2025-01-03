@@ -25,3 +25,7 @@ python app.py one
 python app.py multiple
 
 ```
+
+## Thanks
+
+[Py-Core Python Programming](https://medium.com/@ccpythonprogramming) for inspiration!
